@@ -1,7 +1,5 @@
 # Debian系安装环境
 
-## [Debian安装MongoDB官网教程](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-debian)
-
 ## 1.首先安装MongoDB
 
 1. 首先导入包管理系统使用的公钥。
@@ -121,4 +119,4 @@ cp -r BinOutput/ /root/yuanshen/resources
 java -jar grasscutter-1.4.3.jar
 ```
 
-
+## [Debian安装MongoDB官网教程](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-debian)
